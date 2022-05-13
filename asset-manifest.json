@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/react-project/static/css/main.fef3b4f0.css",
-    "main.js": "/react-project/static/js/main.f9c0e515.js",
+    "main.js": "/react-project/static/js/main.b8ea0198.js",
     "static/media/pexels-miguel-á-padriñán-19670.jpg": "/react-project/static/media/pexels-miguel-á-padriñán-19670.560e38e799908a8a535a.jpg",
     "static/media/GvBild.png": "/react-project/static/media/GvBild.566ccb87a1e5dffde350.png",
     "static/media/meme.jpg": "/react-project/static/media/meme.6679950eae6f6c1f2484.jpg",
     "index.html": "/react-project/index.html",
     "main.fef3b4f0.css.map": "/react-project/static/css/main.fef3b4f0.css.map",
-    "main.f9c0e515.js.map": "/react-project/static/js/main.f9c0e515.js.map"
+    "main.b8ea0198.js.map": "/react-project/static/js/main.b8ea0198.js.map"
   },
   "entrypoints": [
     "static/css/main.fef3b4f0.css",
-    "static/js/main.f9c0e515.js"
+    "static/js/main.b8ea0198.js"
   ]
 }
